@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+timm
+albumentations
+opencv-python
+pillow
+tqdm
+matplotlib
+seaborn
+torchmetrics
+hydra-core
+
